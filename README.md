@@ -1,8 +1,8 @@
 ## Oi! Eu sou João Chaves!
 
 - 🔭 Hoje trabalho como Streamer na Twitch.
-- 🌱 Estou estudando C#.
-- 👯 Procuro cada vez mais me aprofundar na programação!
+- 🌱 Estou estudando e aprimorando meu conhecimento em C#.
+- 👯 Procuro cada vez mais me aprofundar na programação e me tornar um desenvolvedor!
 
 <div align="center">
   <a href="https://github.com/AkioChaves">
